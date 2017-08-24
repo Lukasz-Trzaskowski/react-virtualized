@@ -1,10 +1,10 @@
 {
-  "name": "react-virtualized",
+  "name": "react-virtualized-lukasz",
   "description": "React components for efficiently rendering large, scrollable lists and tabular data",
   "author": "Brian Vaughn <brian.david.vaughn@gmail.com>",
   "user": "bvaughn",
-  "version": "7.17.1",
-  "homepage": "https://github.com/bvaughn/react-virtualized",
+  "version": "7.17.2",
+  "homepage": "https://github.com/Lukasz-Trzaskowski/react-virtualized",
   "main": "dist/commonjs/index.js",
   "jsnext:main": "dist/es/index.js",
   "license": "MIT",
